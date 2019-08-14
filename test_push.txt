@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello thang1
+=======
+hello thang2
+>>>>>>> 9b375289e91a67ed2695479fb7da6683423e0211
